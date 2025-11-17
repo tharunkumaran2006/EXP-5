@@ -29,6 +29,7 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 ![WhatsApp Image 2025-11-16 at 22 29 34_5dd54d38](https://github.com/user-attachments/assets/3e2213c7-7cd0-4e60-ac88-a78a48ad6e8e)
 ![WhatsApp Image 2025-11-16 at 22 30 05_620a42a5](https://github.com/user-attachments/assets/0a1fa5da-c595-4936-ac75-ce595216b336)
+![WhatsApp Image 2025-11-16 at 22 30 36_1eec3fa5](https://github.com/user-attachments/assets/0ff25e7a-65cc-439b-95e1-f33754e3c8a5)
 
 
 ## PRECAUTIONS:
